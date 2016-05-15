@@ -1,0 +1,58 @@
+    .main-container {
+        height: 100%;
+    }
+    
+    .header {
+        margin: 5% 0 0 0;
+        background: #BA77FF;
+    }
+    
+    .hamburg {
+        width: 35%;
+        display: inline-block;
+        text-rendering: geometricPrecision;
+        padding-left: 1%;
+    }
+    
+    .timeline-text {
+        width: 34%;
+        display: inline-block;
+    }
+    
+    .profile-image {
+        margin-left: 19%;
+        display: inline-block;
+    }
+    
+    .profile-image img {
+        border-radius: 50%;
+        height: 25px;
+        margin-bottom: -33%;
+    }
+    
+    .body-container {
+        background-color: #493C5C;
+        height: 14em;
+    }
+    
+    .date-div {
+        width: 50%;
+        color: white;
+        padding: 20% 0% 0% 10%;
+    }
+    
+    .week-container {
+        padding: 0 0% 0% 6%;
+        display: inline-block;
+    }
+    
+    .day {
+        margin-top: 4px;
+        /* padding: 2% 0% 0% 0%; */
+        font-size: 4em;
+        font-weight: normal;
+    }
+    
+    .week {
+        font-size: 1.7em;
+    }
